@@ -1,0 +1,15 @@
+2022-10-11 15:51:15,549 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-11 15:51:15,566 DEBUG org.eclipse.jetty.util.log.Log [main] Logging to Logger[org.eclipse.jetty.util.log] via org.eclipse.jetty.util.log.Slf4jLog
+2022-10-11 15:51:15,571 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @1318ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-11 15:51:15,573 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-11 15:51:15,604 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 95 days old. Consider checking for a newer version.).
+2022-10-11 15:51:15,846 INFO io.javalin.core.util.JavalinLogger [main] Listening on http://localhost:8080/
+2022-10-11 15:51:15,846 INFO io.javalin.core.util.JavalinLogger [main] Javalin started in 274ms \o/

@@ -1,0 +1,60 @@
+2022-10-10 22:05:58,971 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-10 22:05:58,979 DEBUG org.eclipse.jetty.util.log.Log [main] Logging to Logger[org.eclipse.jetty.util.log] via org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 22:05:58,984 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @1267ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 22:05:58,986 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-10 22:05:59,010 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 94 days old. Consider checking for a newer version.).
+2022-10-10 22:05:59,252 INFO io.javalin.core.util.JavalinLogger [main] Listening on http://localhost:8080/
+2022-10-10 22:05:59,253 INFO io.javalin.core.util.JavalinLogger [main] Javalin started in 268ms \o/
+2022-10-10 23:21:41,322 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-10 23:21:41,332 DEBUG org.eclipse.jetty.util.log.Log [main] Logging to Logger[org.eclipse.jetty.util.log] via org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 23:21:41,335 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @1182ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 23:21:41,337 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-10 23:21:41,358 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 94 days old. Consider checking for a newer version.).
+2022-10-10 23:21:41,652 INFO io.javalin.core.util.JavalinLogger [main] Listening on http://localhost:8080/
+2022-10-10 23:21:41,652 INFO io.javalin.core.util.JavalinLogger [main] Javalin started in 316ms \o/
+2022-10-10 23:30:01,636 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-10 23:30:01,651 DEBUG org.eclipse.jetty.util.log.Log [main] Logging to Logger[org.eclipse.jetty.util.log] via org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 23:30:01,660 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @1819ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 23:30:01,663 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-10 23:30:01,705 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 94 days old. Consider checking for a newer version.).
+2022-10-10 23:30:02,164 INFO io.javalin.core.util.JavalinLogger [main] Listening on http://localhost:8080/
+2022-10-10 23:30:02,165 INFO io.javalin.core.util.JavalinLogger [main] Javalin started in 504ms \o/
+2022-10-10 23:37:07,406 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-10 23:37:07,416 DEBUG org.eclipse.jetty.util.log.Log [main] Logging to Logger[org.eclipse.jetty.util.log] via org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 23:37:07,420 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @1263ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-10 23:37:07,422 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-10 23:37:07,447 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 94 days old. Consider checking for a newer version.).
+2022-10-10 23:37:07,766 INFO io.javalin.core.util.JavalinLogger [main] Listening on http://localhost:8080/
+2022-10-10 23:37:07,767 INFO io.javalin.core.util.JavalinLogger [main] Javalin started in 345ms \o/
